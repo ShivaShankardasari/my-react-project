@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShivaShankardasari.github.io/my-react-project/static/css/main.e6c13ad2.css",
+    "main.js": "/ShivaShankardasari.github.io/my-react-project/static/js/main.396c4893.js",
+    "static/js/488.e718941c.chunk.js": "/ShivaShankardasari.github.io/my-react-project/static/js/488.e718941c.chunk.js",
+    "index.html": "/ShivaShankardasari.github.io/my-react-project/index.html",
+    "main.e6c13ad2.css.map": "/ShivaShankardasari.github.io/my-react-project/static/css/main.e6c13ad2.css.map",
+    "main.396c4893.js.map": "/ShivaShankardasari.github.io/my-react-project/static/js/main.396c4893.js.map",
+    "488.e718941c.chunk.js.map": "/ShivaShankardasari.github.io/my-react-project/static/js/488.e718941c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.396c4893.js"
+  ]
+}
